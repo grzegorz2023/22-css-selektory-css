@@ -1,0 +1,9 @@
+p {
+    color: green;
+}
+h1, h3 {
+    background-color: blue;
+}
+h1+h3 {
+    color: yellow;
+}
